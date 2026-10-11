@@ -1,0 +1,15 @@
+HƯỚNG DẪN THÊM FONT CHỮ BE VIETNAM PRO (không bắt buộc)
+
+Trang vẫn chạy bình thường khi chưa có font này (dùng font mặc định của máy).
+Nếu muốn chữ tiếng Việt đẹp và đồng đều trên mọi thiết bị:
+
+1. Vào https://fonts.google.com/specimen/Be+Vietnam+Pro rồi bấm "Get font" -> "Download all".
+2. Giải nén, tìm 4 file .ttf sau trong thư mục "static":
+   - BeVietnamPro-Regular.ttf
+   - BeVietnamPro-SemiBold.ttf
+   - BeVietnamPro-Bold.ttf
+   - BeVietnamPro-ExtraBold.ttf
+3. Chép 4 file này vào thư mục "fonts" (cùng thư mục với file index.html).
+4. Đưa cả thư mục "fonts" lên GitHub cùng với index.html và thư mục "images".
+
+Font Be Vietnam Pro dùng giấy phép mã nguồn mở (SIL Open Font License), được phép dùng miễn phí.
